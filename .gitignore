@@ -1,0 +1,5 @@
+node_modules/
+tmp/
+backend/backend
+.env
+claude resume*.txt
