@@ -3,3 +3,4 @@ tmp/
 backend/backend
 .env
 claude resume*.txt
+Fases/
